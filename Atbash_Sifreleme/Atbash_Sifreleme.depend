@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740500158 source:c:\users\emres\onedrive\desktop\atbash_sifreleme\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
